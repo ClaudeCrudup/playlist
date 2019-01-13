@@ -1,5 +1,14 @@
+.header {
+   background-image: url("http://cdn.shopify.com/s/files/1/1352/1073/products/Shiva_grande.jpg?v=1467090204");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 h1 {
-    text-align: center;
+    text-align: left;
+    color:#FFE657  ;
+}
+.newSong{
+ color:#9CF90D;   
 }
 
 #cart {
@@ -7,11 +16,16 @@ h1 {
     justify-content: center;
     border-top: 5px solid black;
     border-bottom: 5px solid black;
+    background-image: url("http://trippy.me/wp-content/uploads/Trippy-Crown.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .column {
     width: 18%;
     padding: 25px 0px;
+    color:#FFE657  ;
+     ;
 }
 
 #images img {
@@ -26,12 +40,15 @@ h1 {
     height: 100px;
     font-weight: bold;
     margin: 20px;
+    background-color: #144886;
 }
 
 #artists p {
     font-size: 18px;
     height: 100px;
     margin: 20px;
+    background-color: #8E2B92   ;
+    
 }
 
 #lengths p {
@@ -47,6 +64,7 @@ h1 {
     height: 100px;
     font-weight: bold;
     margin: 20px;
+    color:#9CF90D;
 }
 
 #form {
