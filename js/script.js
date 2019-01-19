@@ -1,7 +1,7 @@
 /* global $ */
 
 // BELOW Update the songs array with four of your favorites songs.
-var songs = ["Do You Love What You Feel", "Over Like A Fat Rat", "Inside Out", "I'm Caught Up (In a One Night Love Affair)"];
+var songs = ["Do You Love What You Feel", "Over Like A Fat Rat", "Inside Out", "I'm Caught Up (In a One Night Love Affair)", "Haven't You Heard" ];
 // BELOW Add 4 More arrays to store images_links, atists, song lengths, and links for each song
 // Make sure they match the same order as your array above
 var imageLinks= [
@@ -9,14 +9,16 @@ var imageLinks= [
     "http://www.nippertown.com/zeblog/wp-content/uploads/2014/12/Fonda-Rae.jpg",
     "https://i.ytimg.com/vi/HrkvzmVrX50/maxresdefault.jpg",
     "https://soundsoftheuniverse.com/img/VG8zUnd0enhPN1daNk9qbDR1US9RZz09/inner-life-inner-life.jpg"
+    "https://ichef.bbci.co.uk/images/ic/960x540/p01bqv39.jpg"
     ];
-var artists = ["Chaka Kahn","Fonda Rae", "Oddessy", "Inner Life"];
-var songLengths = ["10:09","8:10","6:42","9:40"];
+var artists = ["Chaka Kahn","Fonda Rae", "Oddessy", "Inner Life", "Patrice"];
+var songLengths = ["10:09","8:10","6:42","9:40", "8:40"];
 var links = [
     "https://youtu.be/GRoiUKGoJcM",
     "https://youtu.be/gQSFlZ2oXCA",
     "https://youtu.be/LIXK6u2bHTg",
     "https://youtu.be/uq6HQG-cce0"
+    "https://youtu.be/-Gp_nttUNhs"
     ];
 
     // BELOW Use forEach Loop to display the data from each of your array's in the correct div
